@@ -1,0 +1,7 @@
+﻿  array.cpp
+  main.cpp
+C:\Users\19139\Desktop\Alice\Project7\main.cpp(13,6): warning C4101: 'newVaule': unreferenced local variable
+C:\Users\19139\Desktop\Alice\Project7\main.cpp(47,13): warning C4101: 'error': unreferenced local variable
+C:\Users\19139\Desktop\Alice\Project7\main.cpp(65,13): warning C4101: 'error': unreferenced local variable
+  Generating Code...
+  Project7.vcxproj -> C:\Users\19139\Desktop\Alice\Project7\x64\Debug\Project7.exe
